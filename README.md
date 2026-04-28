@@ -1,4 +1,4 @@
-#### 👨‍💻Tanvir Hossen| Full-Stack Developer
+# 👨‍💻Tanvir Hossen| Full-Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0d9488&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Mohammad+Tanvir+Hossen+👋;Full-Stack+Developer+(Django+%7C+React);Problem+Solver+%7C+Tech+Learner;Welcome+to+my+GitHub+Profile!">
