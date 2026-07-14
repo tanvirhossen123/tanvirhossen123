@@ -13,7 +13,7 @@
 ---
 
 ## 🧑‍💻 About Me
-
+<h1> takekear@gmail.com</h1>
 I’m a **Full-Stack Developer** passionate about **Django, React, and Python**. I build **clean, scalable, and high-performance applications**.
 
 - 🌱 Learning **Data Science, Big Data & Machine Learning**  
